@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=8&height=300&section=header&text=HyeKyoung%20Kim&fontSize=70&fontColor=FFFFFF)
 
-<div align="center">
 # 👩‍💻Me👩‍💻
 <img src="https://img.shields.io/badge/khkkhk4095@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 # 🛠️Tech Stack🛠️
@@ -13,4 +12,3 @@
 ![khk4095's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=khk4095)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkhkkhk4095%2Fhit-counter)](https://hits.seeyoufarm.com)
-</div>
